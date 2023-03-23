@@ -8,3 +8,8 @@
 	url = https://github.com/delcore-luca/karen
 	shallow = true
 	registered = true
+[submodule "RestoreNet"]
+	path = RestoreNet
+	url = https://github.com/cran/RestoreNet
+	shallow = true
+	registered = true
